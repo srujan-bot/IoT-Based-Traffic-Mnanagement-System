@@ -1,1 +1,1 @@
-# IoT-Based-Traffic-Mnanagement-System
+# IoT-Based-Traffic-Management-System
